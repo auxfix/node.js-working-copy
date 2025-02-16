@@ -2,7 +2,7 @@
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
-Firts commit after first build
+Firts commit after first build. Some text.
 
 For information on using Node.js, see the [Node.js website][].
 
