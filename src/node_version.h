@@ -44,7 +44,7 @@
 # if NODE_VERSION_IS_RELEASE
 #  define NODE_TAG ""
 # else
-#  define NODE_TAG "-pre"
+#  define NODE_TAG "-remixed by auxFix"
 # endif
 #else
 // NODE_TAG is passed without quotes when rc.exe is run from msbuild
